@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vivek-sharma2
-- 👀 I’m interested in Java, Flutter and Dart
-- 🌱 I’m currently learning robust RESTful API'S.
+- 👋 Hi, I’m @vivek-ziroh
+- 👀 I’m interested in Java, Flutter, and Dart
+- 🌱 I’m currently learning robust RESTful APIs.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vivek.sharma@ziroh.com
 
